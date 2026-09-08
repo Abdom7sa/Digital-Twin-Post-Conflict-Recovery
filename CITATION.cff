@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Digital Twin-Based Framework for Urban Infrastructure Resiliency in Post-Conflict Khartoum"
+type: software
+authors:
+  - family-names: "Research Author"
+date-released: 2026-09-08
+license: MIT
+repository-code: "https://github.com/your-username/your-repo-name"
